@@ -16,7 +16,7 @@ const projects = [
     github: 'https://github.com/Malaravan236/News_Aggregators',
   },
   {
-    title: 'Internship Management System',
+    title: 'InternConnect',
     image: internshipMgmt,
     tags: ['Frontend', 'Backend'],
     features: [
@@ -24,7 +24,7 @@ const projects = [
       'Admin & student dashboards',
       'Status updates and document management',
     ],
-    github: 'https://github.com/Malaravan236/Intern_Management_System',
+    github: 'https://github.com/Malaravan236/InternConnect',
   },
   {
     title: 'Employee Management System',

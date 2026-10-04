@@ -50,7 +50,7 @@ export default function Hero() {
             <i className="ri-external-link-line"></i>
           </a>
 
-          <a href="/Malaravan_Python_Full_Stack.pdf" target="_blank" rel="noreferrer" className="resume-btn">
+          <a href="/Malaravan_BE_CSE_Python_Full_Stack" target="_blank" rel="noreferrer" className="resume-btn">
             <i className="ri-eye-line"></i>
             View My Resume
           </a>
